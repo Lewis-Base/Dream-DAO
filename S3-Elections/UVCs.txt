@@ -1,0 +1,5 @@
+The following is a list of UVCs that you'll need to put in the scripts to run them properly.
+Alternatively, you can run the scripts after disabling the relevnant check by removing the 
+`if code in valid_codes' line
+
+unsorted codes = []
