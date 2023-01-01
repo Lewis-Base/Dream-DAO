@@ -1,0 +1,48 @@
+Champion Co-Steward
+FINAL RESULT
+Candidate      Votes  Status
+-----------  -------  --------
+Harry             21  Elected
+Shaan             15  Rejected
+
+
+Builder Co-Steward
+FINAL RESULT
+Candidate      Votes  Status
+-----------  -------  --------
+Tim               18  Elected
+Joshua            10  Rejected
+Amanda             8  Rejected
+
+
+Gatherings WG Lead
+ROUND 1
+Candidate      Votes  Status
+-----------  -------  --------
+Ibtehaj           14  Hopeful
+Fernando          12  Hopeful
+Rebeca            10  Rejected
+
+
+FINAL RESULT
+Candidate      Votes  Status
+-----------  -------  --------
+Ibtehaj           19  Elected
+Fernando          17  Rejected
+Rebeca             0  Rejected
+
+
+Governance WG Lead
+FINAL RESULT
+Candidate      Votes  Status
+-----------  -------  --------
+Aditya_Yes        33  Elected
+Aditya_No          3  Rejected
+
+
+Grants WG Lead
+FINAL RESULT
+Candidate      Votes  Status
+-----------  -------  --------
+Amanda_Yes        33  Elected
+Amanda_No          3  Rejected
